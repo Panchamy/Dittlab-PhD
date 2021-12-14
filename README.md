@@ -1,1 +1,1 @@
-# DittLab-PhD
+# Dittlab-PhD
