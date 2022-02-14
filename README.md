@@ -9,10 +9,11 @@
 - Either through terminal or remote access 
 - ssh username@dittlab-backend@tudelft.nl
 
+
 ## Setup your own python environment
 - Pip: https://packaging.python.org/en/latest/guides/installing-using-pip-and-virtual-environments/
 - Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
-- Install jupyter notebook
+- Open via visualstudio code
 
 ## Tunneling jupyter notebook
 Tunnel the notebook only from your personal python environment
