@@ -14,7 +14,7 @@
 
 - __Cyberduck/WinSCP to transfer files__
   - [Download](https://winscp.net/eng/download.php) and install WinSCP.
-  - On startup, WinSCP would ask you to setup,
+  - On startup, WinSCP would ask you to set up,
     - Select File protocol: `SFTP`
     - Fill in Host name: `dittlab-backend.tudelft.nl`
     - Leave Port number as `22`
@@ -28,12 +28,12 @@
 - ssh username@dittlab-backend@tudelft.nl
 
 
-## Setup your own python environment
+## Set up your own python environment
 Dittlab-backend has python 3.8.10 and pip 20.0.2 installed. They can be checked by entering `python3` (Use Ctrl+D to exit python, and another Ctrl+D to close the terminal window) and by entering `pip --version` or `pip3 --version`.
 - __Update python and pip__ 
   - You are not allowed to update python as this requires superuser permisson.
   - Update pip by `python3 -m pip install --user --upgrade pip`.
-- __Setup Conda__ 
+- __Install Conda__ 
   - Install Miniconda or Anaconda referring to the [User guide](https://docs.conda.io/projects/continuumio-conda/en/latest/user-guide/install/linux.html).
   - Take Miniconda as the example, the specific steps are
     - Connect to dittlab-backend via X2Go and open MATE Terminal by either 1) the black icon in the top bar, or 2) Applications -> System Tools -> MATE Terminal
